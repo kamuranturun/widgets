@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Widgets</string>
+    <string name="metin">METIN</string>
+    <string name="deger">DEGER</string>
+</resources>
